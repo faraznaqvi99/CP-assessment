@@ -1,4 +1,4 @@
 CP-assessment
 
-run "npm install" to install dependencies
-run "npm start" to start the server
+1) run "npm install" to install dependencies.
+2) run "npm start" to start the server
