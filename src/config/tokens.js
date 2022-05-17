@@ -1,5 +1,5 @@
 const tokenTypes = {
-  ACCESS: 'access',
+  ACCESS: "access",
 };
 
 module.exports = {
